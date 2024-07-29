@@ -1,0 +1,7 @@
+# .gitignore
+
+# Virtual Environment
+venv/
+env/
+myenv/
+.env
